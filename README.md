@@ -1,1 +1,1 @@
-# myProjects
+React based application which allows user to enter details of the expense made on a particular day in the form and representing it pictorially to keep track of the spendings.Hence, allowing user to compare their spendings on monthly basis across the year.
